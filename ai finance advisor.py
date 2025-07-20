@@ -8,7 +8,7 @@ import plotly.graph_objects as go
 from datetime import datetime
 
 
-API_KEY = 'AIzaSyDOzkq1ffV4DLnY7B0OI2aUhkM61IWuwoE' 
+API_KEY = 'enter your api key' 
 try:
     genai.configure(api_key=API_KEY)
 except Exception as e:
