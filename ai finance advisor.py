@@ -382,7 +382,7 @@ def main():
             'Interest Rate': [36.0, 14.5, 9.8], 'Min Payment': [2500, 6000, 11000]
         })
 
-    st.title("🇮🇳 Personal Finance Advisor")
+    st.title("AI Personal Finance Advisor")
     
     with st.sidebar:
         st.header("👤 Your Profile")
